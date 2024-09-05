@@ -1,0 +1,8 @@
+{
+  "MinSeverity": 19,
+  "MaxSeverity": 20,
+  "Defenses": [
+    "Trigger full system lockdown",
+    "Deploy emergency defenses"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHMUEL\\source\\repos\\DefenseSyber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{279332A2-8278-41A8-BFC0-D49EFB49C026}|DefenseSyber\\DefenseSyber.csproj|c:\\users\\shmuel\\source\\repos\\defensesyber\\defensesyber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279332A2-8278-41A8-BFC0-D49EFB49C026}|DefenseSyber\\DefenseSyber.csproj|solutionrelative:defensesyber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279332A2-8278-41A8-BFC0-D49EFB49C026}|DefenseSyber\\DefenseSyber.csproj|c:\\users\\shmuel\\source\\repos\\defensesyber\\defensesyber\\severityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279332A2-8278-41A8-BFC0-D49EFB49C026}|DefenseSyber\\DefenseSyber.csproj|solutionrelative:defensesyber\\severityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279332A2-8278-41A8-BFC0-D49EFB49C026}|DefenseSyber\\DefenseSyber.csproj|c:\\users\\shmuel\\source\\repos\\defensesyber\\defensesyber\\models\\defense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279332A2-8278-41A8-BFC0-D49EFB49C026}|DefenseSyber\\DefenseSyber.csproj|solutionrelative:defensesyber\\models\\defense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279332A2-8278-41A8-BFC0-D49EFB49C026}|DefenseSyber\\DefenseSyber.csproj|c:\\users\\shmuel\\source\\repos\\defensesyber\\defensesyber\\models\\threat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279332A2-8278-41A8-BFC0-D49EFB49C026}|DefenseSyber\\DefenseSyber.csproj|solutionrelative:defensesyber\\models\\threat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279332A2-8278-41A8-BFC0-D49EFB49C026}|DefenseSyber\\DefenseSyber.csproj|c:\\users\\shmuel\\source\\repos\\defensesyber\\defensesyber\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279332A2-8278-41A8-BFC0-D49EFB49C026}|DefenseSyber\\DefenseSyber.csproj|solutionrelative:defensesyber\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279332A2-8278-41A8-BFC0-D49EFB49C026}|DefenseSyber\\DefenseSyber.csproj|c:\\users\\shmuel\\source\\repos\\defensesyber\\defensesyber\\reccorsion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279332A2-8278-41A8-BFC0-D49EFB49C026}|DefenseSyber\\DefenseSyber.csproj|solutionrelative:defensesyber\\reccorsion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279332A2-8278-41A8-BFC0-D49EFB49C026}|DefenseSyber\\DefenseSyber.csproj|c:\\users\\shmuel\\source\\repos\\defensesyber\\defensesyber\\defencestrategiesbalanced.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{279332A2-8278-41A8-BFC0-D49EFB49C026}|DefenseSyber\\DefenseSyber.csproj|solutionrelative:defensesyber\\defencestrategiesbalanced.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279332A2-8278-41A8-BFC0-D49EFB49C026}|DefenseSyber\\DefenseSyber.csproj|c:\\users\\shmuel\\source\\repos\\defensesyber\\defensesyber\\threats.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{279332A2-8278-41A8-BFC0-D49EFB49C026}|DefenseSyber\\DefenseSyber.csproj|solutionrelative:defensesyber\\threats.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SHMUEL\\source\\repos\\JsonPractice\\JsonPractice\\defenceStrategiesBalanced.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Threat.cs",
+              "DocumentMoniker": "C:\\Users\\SHMUEL\\source\\repos\\DefenseSyber\\DefenseSyber\\Models\\Threat.cs",
+              "RelativeDocumentMoniker": "DefenseSyber\\Models\\Threat.cs",
+              "ToolTip": "C:\\Users\\SHMUEL\\source\\repos\\DefenseSyber\\DefenseSyber\\Models\\Threat.cs",
+              "RelativeToolTip": "DefenseSyber\\Models\\Threat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:56:35.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BinaryTree.cs",
+              "DocumentMoniker": "C:\\Users\\SHMUEL\\source\\repos\\DefenseSyber\\DefenseSyber\\BinaryTree.cs",
+              "RelativeDocumentMoniker": "DefenseSyber\\BinaryTree.cs",
+              "ToolTip": "C:\\Users\\SHMUEL\\source\\repos\\DefenseSyber\\DefenseSyber\\BinaryTree.cs",
+              "RelativeToolTip": "DefenseSyber\\BinaryTree.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:59:01.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reccorsion.cs",
+              "DocumentMoniker": "C:\\Users\\SHMUEL\\source\\repos\\DefenseSyber\\DefenseSyber\\Reccorsion.cs",
+              "RelativeDocumentMoniker": "DefenseSyber\\Reccorsion.cs",
+              "ToolTip": "C:\\Users\\SHMUEL\\source\\repos\\DefenseSyber\\DefenseSyber\\Reccorsion.cs",
+              "RelativeToolTip": "DefenseSyber\\Reccorsion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAvwAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:09:13.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Defense.cs",
+              "DocumentMoniker": "C:\\Users\\SHMUEL\\source\\repos\\DefenseSyber\\DefenseSyber\\Models\\Defense.cs",
+              "RelativeDocumentMoniker": "DefenseSyber\\Models\\Defense.cs",
+              "ToolTip": "C:\\Users\\SHMUEL\\source\\repos\\DefenseSyber\\DefenseSyber\\Models\\Defense.cs",
+              "RelativeToolTip": "DefenseSyber\\Models\\Defense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:55:22.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeverityService.cs",
+              "DocumentMoniker": "C:\\Users\\SHMUEL\\source\\repos\\DefenseSyber\\DefenseSyber\\SeverityService.cs",
+              "RelativeDocumentMoniker": "DefenseSyber\\SeverityService.cs",
+              "ToolTip": "C:\\Users\\SHMUEL\\source\\repos\\DefenseSyber\\DefenseSyber\\SeverityService.cs",
+              "RelativeToolTip": "DefenseSyber\\SeverityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:32:59.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHMUEL\\source\\repos\\DefenseSyber\\DefenseSyber\\Program.cs",
+              "RelativeDocumentMoniker": "DefenseSyber\\Program.cs",
+              "ToolTip": "C:\\Users\\SHMUEL\\source\\repos\\DefenseSyber\\DefenseSyber\\Program.cs",
+              "RelativeToolTip": "DefenseSyber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:51:47.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "defenceStrategiesBalanced.json",
+              "DocumentMoniker": "C:\\Users\\SHMUEL\\source\\repos\\DefenseSyber\\DefenseSyber\\defenceStrategiesBalanced.json",
+              "RelativeDocumentMoniker": "DefenseSyber\\defenceStrategiesBalanced.json",
+              "ToolTip": "C:\\Users\\SHMUEL\\source\\repos\\DefenseSyber\\DefenseSyber\\defenceStrategiesBalanced.json",
+              "RelativeToolTip": "DefenseSyber\\defenceStrategiesBalanced.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T10:38:08.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "ed38480f-2a57-4209-8c95-be08f783be92",
+        "Display": 0,
+        "X": 331,
+        "Y": 208,
+        "Width": 1594,
+        "Height": 878,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "defenceStrategiesBalanced.json",
+              "DocumentMoniker": "C:\\Users\\SHMUEL\\source\\repos\\JsonPractice\\JsonPractice\\defenceStrategiesBalanced.json",
+              "RelativeDocumentMoniker": "..\\JsonPractice\\JsonPractice\\defenceStrategiesBalanced.json",
+              "ToolTip": "C:\\Users\\SHMUEL\\source\\repos\\JsonPractice\\JsonPractice\\defenceStrategiesBalanced.json",
+              "RelativeToolTip": "..\\JsonPractice\\JsonPractice\\defenceStrategiesBalanced.json",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAowKEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T08:53:59.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "74e5e22f-2824-4cac-a529-65041df4427d",
+        "Display": 0,
+        "X": 306,
+        "Y": 152,
+        "Width": 1619,
+        "Height": 713,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "threats.json",
+              "DocumentMoniker": "C:\\Users\\SHMUEL\\source\\repos\\DefenseSyber\\DefenseSyber\\threats.json",
+              "RelativeDocumentMoniker": "DefenseSyber\\threats.json",
+              "ToolTip": "C:\\Users\\SHMUEL\\source\\repos\\DefenseSyber\\DefenseSyber\\threats.json",
+              "RelativeToolTip": "DefenseSyber\\threats.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T08:57:04.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
